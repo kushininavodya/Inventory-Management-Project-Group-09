@@ -1,0 +1,38 @@
+[
+    {
+        "name": "apple",
+        "price": 12.0,
+        "unit": "pcs",
+        "stock": 100.0
+    },
+    {
+        "name": "Potato",
+        "price": 180.0,
+        "unit": "kg",
+        "stock": 100.0
+    },
+    {
+        "name": "Tomato",
+        "price": 150.0,
+        "unit": "kg",
+        "stock": 50.0
+    },
+    {
+        "name": "Mango",
+        "price": 200.0,
+        "unit": "kg",
+        "stock": 149.5
+    },
+    {
+        "name": "Leeks",
+        "price": 80.0,
+        "unit": "kg",
+        "stock": 59.75
+    },
+    {
+        "name": "carrot",
+        "price": 80.0,
+        "unit": "kg",
+        "stock": 49.0
+    }
+]
